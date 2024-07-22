@@ -1,4 +1,9 @@
-.product-card {
+@font-face{
+  font-family: 'gilEB';
+  src: url('../../fonts/Gilroy-ExtraBold.otf');
+}
+
+.product-card { 
     border: 1px solid #ddd;
     border-radius: 5px;
     width: 23%;

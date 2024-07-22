@@ -5,7 +5,8 @@ import Products from '../ProductList/ProductList';
 
 function Price() {
   return (
-    <Element name="price" className="section" id="PriceId">
+    <Element name="price" className="mainPrice" id="PriceId">
+      <p className="priceText">Прайс</p>
       <div id='PriceId' className="mainPrice">
         <Products />
       </div>

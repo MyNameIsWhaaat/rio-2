@@ -1,13 +1,15 @@
 .product-card {
     border: 1px solid #ddd;
     border-radius: 5px;
-    padding: 16px;
-    margin: 16px;
+    width: 23%;
+    padding: 1%;
+    margin: 40px;
     text-align: center;
     box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    text-align: left;
   }
   
-  .product-image {
+  .product-image { 
     width: 100%;
     height: auto;
     border-bottom: 1px solid #ddd;

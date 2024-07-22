@@ -1,0 +1,12 @@
+.main{
+    width: 100%;
+    height: 50vh; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-image: url('../../img/photo.jpg');
+    background-position: fixed;
+    background-size: cover;
+    color: #fff;
+}
